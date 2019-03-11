@@ -26,6 +26,7 @@ namespace Test0311_Hello
         {
             button2.Text = DateTime.Now.ToString();
             //update coment on master branch
+            //update coment on buttom2 branch
         }
     }
 }
